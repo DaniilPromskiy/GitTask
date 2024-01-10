@@ -1,0 +1,15 @@
+C:\Users\Администратор\Desktop\GitTask\ConsoleApp7\GitTask\bin\Debug\net6.0\GitTask.exe
+C:\Users\Администратор\Desktop\GitTask\ConsoleApp7\GitTask\bin\Debug\net6.0\GitTask.deps.json
+C:\Users\Администратор\Desktop\GitTask\ConsoleApp7\GitTask\bin\Debug\net6.0\GitTask.runtimeconfig.json
+C:\Users\Администратор\Desktop\GitTask\ConsoleApp7\GitTask\bin\Debug\net6.0\GitTask.dll
+C:\Users\Администратор\Desktop\GitTask\ConsoleApp7\GitTask\bin\Debug\net6.0\GitTask.pdb
+C:\Users\Администратор\Desktop\GitTask\ConsoleApp7\GitTask\obj\Debug\net6.0\GitTask.csproj.AssemblyReference.cache
+C:\Users\Администратор\Desktop\GitTask\ConsoleApp7\GitTask\obj\Debug\net6.0\GitTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Администратор\Desktop\GitTask\ConsoleApp7\GitTask\obj\Debug\net6.0\GitTask.AssemblyInfoInputs.cache
+C:\Users\Администратор\Desktop\GitTask\ConsoleApp7\GitTask\obj\Debug\net6.0\GitTask.AssemblyInfo.cs
+C:\Users\Администратор\Desktop\GitTask\ConsoleApp7\GitTask\obj\Debug\net6.0\GitTask.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Desktop\GitTask\ConsoleApp7\GitTask\obj\Debug\net6.0\GitTask.dll
+C:\Users\Администратор\Desktop\GitTask\ConsoleApp7\GitTask\obj\Debug\net6.0\refint\GitTask.dll
+C:\Users\Администратор\Desktop\GitTask\ConsoleApp7\GitTask\obj\Debug\net6.0\GitTask.pdb
+C:\Users\Администратор\Desktop\GitTask\ConsoleApp7\GitTask\obj\Debug\net6.0\GitTask.genruntimeconfig.cache
+C:\Users\Администратор\Desktop\GitTask\ConsoleApp7\GitTask\obj\Debug\net6.0\ref\GitTask.dll
